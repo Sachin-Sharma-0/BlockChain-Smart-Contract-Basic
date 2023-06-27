@@ -1,0 +1,2 @@
+CoinTransfer myContract = CoinTransfer(0x123456...); // replace with the address of the deployed contract
+myContract.transfer(0x789abc..., 100); // replace with the address you want to transfer coins to and the amount of coins to transfer
